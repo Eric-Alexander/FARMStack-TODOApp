@@ -1,0 +1,7 @@
+fastapi == 0.65.1
+
+#ASCII server essential for asyc/await processes
+uvicorn == 0.14.0
+
+#MongoDB Driver - Also used in Tornado framework
+motor == 2.4.0
